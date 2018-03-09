@@ -1,0 +1,6 @@
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Baron\Desktop\C#Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
